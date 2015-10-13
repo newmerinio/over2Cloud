@@ -8,7 +8,7 @@ public class TestManab {
 		System.out.println(" Manab Sarmah");
 		System.out.println(" for kuldeep kumar hii");
 		
-		System.out.println(" for Abhay  hii");
+		// delete 1 line
 		
 	}
 }
