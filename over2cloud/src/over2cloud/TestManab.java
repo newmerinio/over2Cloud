@@ -10,5 +10,7 @@ public class TestManab {
 		
 		// delete 1 line
 		
+		System.out.println("mamanb bahut marunga");
+		
 	}
 }
